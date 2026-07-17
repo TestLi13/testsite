@@ -1,0 +1,36 @@
+img{
+    width: 300px;
+    border-radius: 10%;
+}
+
+
+p{
+    color: white;
+    background: #ad0fda;
+}
+
+.square{
+    background: red;
+    width: 200px;
+    height: 200px;
+    transition: 0.5s;
+}
+
+.square:hover{
+    background: green;
+    border-radius: 100%;
+}
+
+.square1 {
+    background: green;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    transition: 0.5s;
+}
+.square1:hover {
+    background: red;
+    width: 200px;
+    height: 200px;
+    border-radius: 25%;
+}
