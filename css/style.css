@@ -1,7 +1,26 @@
 table{
-    border: 1px solid 
-    color: black}
+  width:500px;
+  height:200px;
+  float:left;
+  margin-left:5px;
+}
 
+table,th,td{
+  text-align:center;
+} 
+
+th,td{
+  background:#ffffffc5;
+   padding:10px;
+}
+caption{
+  font-size:20px;
+  color:blue;
+}
+
+*{
+  text-align:center;
+}
 img{
     width: 300px;
     border-radius: 10%;
