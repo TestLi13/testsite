@@ -3,6 +3,7 @@ table{
   height:200px;
   float:left;
   margin-left:5px;
+  border-color: black;
 }
 
 table,th,td{
